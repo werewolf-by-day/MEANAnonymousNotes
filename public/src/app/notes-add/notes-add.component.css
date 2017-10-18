@@ -1,0 +1,15 @@
+.addnote {
+    padding: 20px;
+    border: 1px solid black;
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+input[type=text] {
+    width: 600px;
+}
+
+input.button {
+	background-color: green;
+	color: white;
+}
